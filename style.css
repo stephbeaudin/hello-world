@@ -26,7 +26,7 @@ body {
 
 /* Navbar */
 .navbar {
-    background: linear-gradient(135deg, var(--primary-color), var(--secondary-color));
+    background: linear-gradient(135deg, #ff8c00, #ff6b35);
     padding: 1rem 0;
     position: sticky;
     top: 0;
